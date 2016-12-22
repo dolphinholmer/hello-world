@@ -1,2 +1,3 @@
 # hello-world
-My first GitHub repository
+
+I'm writing this in snowy Salt Lake City waiting for a storm
